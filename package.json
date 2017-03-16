@@ -1,0 +1,32 @@
+{
+  "name": "optical-character-recognition-service",
+  "version": "1.0.0",
+  "description": "Simple optical character recognition web service using Tesseract OCR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlubovac/optical-character-recognition-service.git"
+  },
+  "keywords": [
+    "node-tesseract",
+    "express",
+    "multer",
+    "uuid"
+  ],
+  "author": "Muharem Lubovac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlubovac/optical-character-recognition-service/issues"
+  },
+  "homepage": "https://github.com/mlubovac/optical-character-recognition-service#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "multer": "^1.3.0",
+    "node-tesseract": "^0.2.7",
+    "uuid": "^3.0.1"
+  }
+}
+
