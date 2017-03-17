@@ -1,7 +1,6 @@
 # optical-character-recognition-service
 ## Optical Character Recognition web service powered by Tesseract OCR
 
-
 ### Getting started
 To get started first you'll need to install Tesseract OCR. 
 
